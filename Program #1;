@@ -1,0 +1,14 @@
+
+#include<iostream>
+using namespace std;
+void show(void);
+int main()
+{
+show();
+}
+void show()
+{
+cout<<"programing makes Life interesting";
+}
+output 
+rograming makes Life interesting
